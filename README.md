@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aurelio Falleti</h1>
 <h3 align="center">A passionate Software Developer from Italy</h3>
 
+<p align="center">
+<a  href="https://app.daily.dev/Aure23"><img src="https://api.daily.dev/devcards/7bc56ae81ed646f597c4ccdcb5c9b558.png?r=gyr" width="400" alt="Aurelio Falleti's Dev Card"/></a>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
